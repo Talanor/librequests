@@ -1,4 +1,8 @@
-# CRequests
+# librequests
+
+## Introduction
+
+librequests is a humble C library to perform HTTP requests, designed to be easy to use and understand. Please feel free to contribute and send feedback.
 
 ## Structures
 
