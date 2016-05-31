@@ -4,9 +4,9 @@
 
 ```C
 struct s_response {
-  int     return_code;
-  bool    success;
-  uint8_t *text;
+  uint32_t  return_code;
+  bool      success;
+  uint8_t   *text;
 };
 
 struct s_session {
